@@ -10,6 +10,7 @@
 
     var details = {
         twitter: "https://twitter.com/CaliTes",
+        linkedin: "https://www.linkedin.com/in/calites",
         email:   "cali.testerman@gmail.com"
     };
 
